@@ -1,5 +1,5 @@
 ﻿using Logic.Services;
-using LogicVS2022.Services;
+using LogicVS2026.Services;
 using Microsoft.TeamFoundation.Controls;
 using Microsoft.TeamFoundation.Controls.WPF.TeamExplorer;
 using Shared.Utils;

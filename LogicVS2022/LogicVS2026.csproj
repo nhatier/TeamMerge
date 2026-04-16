@@ -8,7 +8,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>LogicVS2022</RootNamespace>
-    <AssemblyName>LogicVS2022</AssemblyName>
+    <AssemblyName>LogicVS2026</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -38,19 +38,19 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.TeamFoundation.Client">
-      <HintPath>..\Lib\VS2022\Microsoft.TeamFoundation.Client.dll</HintPath>
+      <HintPath>..\Lib\VS2026\Microsoft.TeamFoundation.Client.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.TeamFoundation.Controls">
-      <HintPath>..\Lib\VS2022\Microsoft.TeamFoundation.Controls.dll</HintPath>
+      <HintPath>..\Lib\VS2026\Microsoft.TeamFoundation.Controls.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.TeamFoundation.VersionControl.Client">
-      <HintPath>..\Lib\VS2022\Microsoft.TeamFoundation.VersionControl.Client.dll</HintPath>
+      <HintPath>..\Lib\VS2026\Microsoft.TeamFoundation.VersionControl.Client.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.TeamFoundation.VersionControl.Common">
-      <HintPath>..\Lib\VS2022\Microsoft.TeamFoundation.VersionControl.Common.dll</HintPath>
+      <HintPath>..\Lib\VS2026\Microsoft.TeamFoundation.VersionControl.Common.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.TeamFoundation.WorkItemTracking.Client">
-      <HintPath>..\Lib\VS2022\Microsoft.TeamFoundation.WorkItemTracking.Client.dll</HintPath>
+      <HintPath>..\Lib\VS2026\Microsoft.TeamFoundation.WorkItemTracking.Client.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -98,7 +98,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.TeamFoundationServer.Client">
-      <Version>19.225.1</Version>
+      <Version>20.256.2</Version>
     </PackageReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

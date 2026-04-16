@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 
-namespace LogicVS2022.Services
+namespace LogicVS2026.Services
 {
     public class TeamExplorerService
         : ITeamExplorerService

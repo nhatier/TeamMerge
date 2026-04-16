@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.31912.275
+# Visual Studio Version 18
+VisualStudioVersion = 18.5.11709.299 stable
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{5DAD4C8A-6693-4A8C-95F2-C27F4224823C}"
 EndProject
@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamMerge3SYS", "TeamMerge2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamMergeBase", "TeamMergeBase\TeamMergeBase.csproj", "{06FCDE8C-095E-4D00-A674-8409031C2874}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicVS2022", "LogicVS2022\LogicVS2022.csproj", "{7A63F86F-F01B-4CD1-985C-B1AB6347652C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicVS2026", "LogicVS2022\LogicVS2026.csproj", "{7A63F86F-F01B-4CD1-985C-B1AB6347652C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

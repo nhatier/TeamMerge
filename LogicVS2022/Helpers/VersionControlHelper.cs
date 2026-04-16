@@ -1,7 +1,7 @@
 ﻿using Microsoft.TeamFoundation.Client;
 using System;
 
-namespace LogicVS2022.Helpers
+namespace LogicVS2026.Helpers
 {
     public static class VersionControlHelper
     {

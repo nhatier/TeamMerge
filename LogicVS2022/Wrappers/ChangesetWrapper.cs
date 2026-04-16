@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace LogicVS2022.Wrappers
+namespace LogicVS2026.Wrappers
 {
     public class ChangesetWrapper
         : ITFVCChangeset

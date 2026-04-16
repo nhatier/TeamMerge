@@ -1,8 +1,8 @@
 ﻿using Domain.Entities.TFVC.Base;
 using Domain.Entities.TFVC.Enums;
 using Logic.Services;
-using LogicVS2022.Helpers;
-using LogicVS2022.Wrappers;
+using LogicVS2026.Helpers;
+using LogicVS2026.Wrappers;
 using Microsoft.TeamFoundation.Core.WebApi;
 using Microsoft.TeamFoundation.VersionControl.Client;
 using Microsoft.TeamFoundation.WorkItemTracking.WebApi;
@@ -13,7 +13,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace LogicVS2022.Services
+namespace LogicVS2026.Services
 {
     public class VersionControlService
         : IVersionControlService

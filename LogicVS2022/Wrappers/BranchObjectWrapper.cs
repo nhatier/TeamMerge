@@ -2,7 +2,7 @@
 using Microsoft.TeamFoundation.VersionControl.Client;
 using System.Linq;
 
-namespace LogicVS2022.Wrappers
+namespace LogicVS2026.Wrappers
 {
     public class BranchObjectWrapper
         : ITFVCBranchObject

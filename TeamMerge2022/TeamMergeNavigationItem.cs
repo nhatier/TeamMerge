@@ -1,4 +1,4 @@
-﻿using LogicVS2022.Helpers;
+﻿using LogicVS2026.Helpers;
 using Microsoft.TeamFoundation.Controls;
 using Microsoft.TeamFoundation.Controls.WPF.TeamExplorer;
 using Microsoft.VisualStudio.Shell;

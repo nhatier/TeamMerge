@@ -1,7 +1,7 @@
 ﻿using Domain.Entities.TFVC;
 using Microsoft.TeamFoundation.VersionControl.Client;
 
-namespace LogicVS2022.Converters
+namespace LogicVS2026.Converters
 {
     public static class TFVCConverters
     {

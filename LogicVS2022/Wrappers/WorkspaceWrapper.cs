@@ -1,12 +1,12 @@
 ﻿using Domain.Entities.TFVC;
 using Domain.Entities.TFVC.Base;
 using Domain.Entities.TFVC.Enums;
-using LogicVS2022.Converters;
+using LogicVS2026.Converters;
 using Microsoft.TeamFoundation.VersionControl.Client;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace LogicVS2022.Wrappers
+namespace LogicVS2026.Wrappers
 {
     public class WorkspaceWrapper
         : ITFVCWorkspace

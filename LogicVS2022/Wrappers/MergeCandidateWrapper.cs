@@ -1,8 +1,8 @@
 ﻿using Domain.Entities.TFVC.Base;
-using LogicVS2022.Wrappers;
+using LogicVS2026.Wrappers;
 using Microsoft.TeamFoundation.VersionControl.Client;
 
-namespace LogicVS2022.Wrappers
+namespace LogicVS2026.Wrappers
 {
     public class MergeCandidateWrapper
         : ITFVCMergeCandidate

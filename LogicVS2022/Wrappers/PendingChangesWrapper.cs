@@ -1,7 +1,7 @@
 ﻿using Domain.Entities.TFVC.Base;
 using Microsoft.TeamFoundation.VersionControl.Client;
 
-namespace LogicVS2022.Wrappers
+namespace LogicVS2026.Wrappers
 {
     public class PendingChangesWrapper
         : ITFVCPendingChanges
