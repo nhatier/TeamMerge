@@ -224,7 +224,7 @@ namespace TeamMergeBase.Merge
         CancellationTokenSource c = new CancellationTokenSource();
 
         private bool _reentrant = false;
-        private int? _singleChangesetId;
+        private int? _singleChangesetId = null;
         public int? SingleChangesetId
         {
             get { return _singleChangesetId; }
