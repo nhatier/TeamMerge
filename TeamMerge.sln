@@ -9,11 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{E01C2E81-97D5-4813-AE0A-1C79733EAB4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamMerge3SYS", "TeamMerge2022\TeamMerge3SYS.csproj", "{4903B547-5A73-4FDF-8F33-2C428137F1AE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamMerge3SYS", "TeamMerge3SYS\TeamMerge3SYS.csproj", "{4903B547-5A73-4FDF-8F33-2C428137F1AE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamMergeBase", "TeamMergeBase\TeamMergeBase.csproj", "{06FCDE8C-095E-4D00-A674-8409031C2874}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicVS2026", "LogicVS2022\LogicVS2026.csproj", "{7A63F86F-F01B-4CD1-985C-B1AB6347652C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicVS2026", "LogicVS2026\LogicVS2026.csproj", "{7A63F86F-F01B-4CD1-985C-B1AB6347652C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
